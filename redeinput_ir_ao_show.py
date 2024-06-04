@@ -1,7 +1,7 @@
 #valores de entrada
 x1 = int(input("Valor de x1: ")) #é longe?
 x2 = int(input("Valor de x2: ")) #é caro?
-x3 = int(input("Valor de x3: ")) #é amigos?
+x3 = int(input("Valor de x3: ")) #tem amigos?
 
 #resultado real
 y = 1 #ele foi = 1 / ele não foi = 0

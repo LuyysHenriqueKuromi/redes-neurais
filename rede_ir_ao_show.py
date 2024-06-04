@@ -1,7 +1,7 @@
 #valores de entrada
 x1 = 0 #é longe?
 x2 = 0 #é caro?
-x3 = 1 #é amigos?
+x3 = 1 #tem amigos?
 
 #resultado real
 y = 1 #ele foi = 1 / ele não foi = 0
