@@ -12,8 +12,8 @@ x3 = 1
 x0 = 1 #o x do bias(w0) sempre será 1
 
 #pesos
-w1 = 0
-w2 = 0
+w1 = -0.1
+w2 = -0.1
 w3 = 0.1
 w0 = 0.1
 

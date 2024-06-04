@@ -7,8 +7,8 @@ x3 = int(input("Valor de x3: ")) #é amigos?
 y = 1 #ele foi = 1 / ele não foi = 0
 
 #pesos
-w1 = 0
-w2 = 0
+w1 = -0.1
+w2 = -0.1
 w3 = 0.1
 w0 = 0.1
 

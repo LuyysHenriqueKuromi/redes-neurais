@@ -1,5 +1,5 @@
 #valores de entrada
-x1 = 1 #é longe?
+x1 = 0 #é longe?
 x2 = 0 #é caro?
 x3 = 1 #é amigos?
 
@@ -7,8 +7,8 @@ x3 = 1 #é amigos?
 y = 1 #ele foi = 1 / ele não foi = 0
 
 #pesos
-w1 = 0
-w2 = 0
+w1 = -0.1
+w2 = -0.1
 w3 = 0.1
 w0 = 0.1
 
